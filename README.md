@@ -24,7 +24,7 @@ npm install axios
 
 #### After installation run the following command 
 ```
-node billboard.js --src=https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results --excel=100songs.csv
+node billboard.js --src=https://www.billboard.com/charts/hot-100 --excel=100songs.csv
 ```
 ### RESULTS
 #### JSON File
