@@ -32,4 +32,4 @@ node billboard.js --src=https://www.billboard.com/charts/hot-100 --excel=100song
 #### EXCEL File
 ![billboard hot 100](https://raw.githubusercontent.com/Jas-Script/billboard-scrapper/master/pics%20for%20readme/exlpic.PNG)
 
-### If you like this project ,some some love 💖 and star/fork this repository. Thanks for showing your interest 🙏
+### If you like this project ,show some love 💖 and star/fork this repository. Thanks for showing your interest 🙏
